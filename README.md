@@ -45,6 +45,7 @@ docker build -t web-forum .
 docker run -p 8080:8080 web-forum
 ```
 3. Build and run the application using Docker:
+
 Access the forum in your browser at http://localhost:8080.
 
 
@@ -52,8 +53,8 @@ Access the forum in your browser at http://localhost:8080.
 The SQLite database will be automatically created when the application is run.
 
 ## Usage
-Register as a new user on the forum by providing email, username, and password.
-Log in to access the forum and create posts and comments.
-Associate categories with posts during creation.
-Like or dislike posts and comments.
-Use the filter mechanism to view posts by categories, created posts, or liked posts.
+* Register as a new user on the forum by providing email, username, and password.
+* Log in to access the forum and create posts and comments.
+* Associate categories with posts during creation.
+* Like or dislike posts and comments.
+* Use the filter mechanism to view posts by categories, created posts, or liked posts.
