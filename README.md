@@ -46,7 +46,7 @@ docker run -p 8080:8080 web-forum
 ```
 3. Build and run the application using Docker:
 
-Access the forum in your browser at http://localhost:8080.
+	Access the forum in your browser at http://localhost:8080.
 
 
 ## Database Setup
